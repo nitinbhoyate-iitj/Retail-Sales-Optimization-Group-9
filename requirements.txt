@@ -1,0 +1,53 @@
+# Core Data Processing
+pandas==2.1.4
+numpy==1.26.2
+
+# AWS & Cloud Storage
+boto3==1.34.20
+botocore==1.34.20
+s3fs==2024.2.0
+
+# MongoDB
+pymongo==4.6.1
+dnspython==2.4.2
+
+# Data Cleaning & Preprocessing
+scikit-learn==1.4.0
+scipy==1.11.4
+
+# Time Series & Forecasting
+prophet==1.1.5
+statsmodels==0.14.1
+pmdarima==2.0.4
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
+
+# Dashboard & Web App
+streamlit==1.29.0
+dash==2.14.2
+dash-bootstrap-components==1.5.0
+
+# Jupyter & Notebooks
+jupyter==1.0.0
+notebook==7.0.6
+ipykernel==6.28.0
+ipywidgets==8.1.1
+
+# Data Format Support
+pyarrow==14.0.2
+fastparquet==2023.10.1
+openpyxl==3.1.2
+
+# Utilities
+python-dotenv==1.0.0
+pyyaml==6.0.1
+tqdm==4.66.1
+loguru==0.7.2
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
